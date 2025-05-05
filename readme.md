@@ -7,7 +7,7 @@
 
 * Clone this repository
 ```
-git clone https://github.com/harshpx/deepfake-detection.git
+git clone https://github.com/RAJ015HACKING/Detection-deepfake.git
 cd deepfake-detection
 ```
 * Setup python virtual environment and install dependencies
